@@ -1,4 +1,4 @@
-//package three;
+//package five;
 //
 //class A {
 //	public A() {
@@ -19,9 +19,8 @@
 //}
 //
 //public class ConstructorEx3 {
-//	public static void main (String[] avgs) {
+//	public static void main(String[] args) {
 //		B b;
-//		B c = new B(5);
+//		b = new B(5);
 //	}
-//
 //}
